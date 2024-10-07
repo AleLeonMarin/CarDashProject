@@ -3,9 +3,9 @@
 	<lc:Project>
 		<lc:ProjectId>6bb38fd9-f415-4d75-b398-db197738cd94</lc:ProjectId>
 		<lc:Name>Proyecto I</lc:Name>
-		<lc:Zoom>0.8974157303370686</lc:Zoom>
+		<lc:Zoom>0.5974157303370686</lc:Zoom>
 		<lc:Frequency>17</lc:Frequency>
-		<lc:LogicalCircuitId>9321f98c-69bd-40a8-9542-9d4cd1dbafbe</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>48515c8e-b4d3-41b3-ba09-1ef8907c68d1</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:CollapsedCategory>
 		<lc:Name>Flip-Flop D</lc:Name>
@@ -36,6 +36,9 @@
 	</lc:CollapsedCategory>
 	<lc:CollapsedCategory>
 		<lc:Name>Funciones</lc:Name>
+	</lc:CollapsedCategory>
+	<lc:CollapsedCategory>
+		<lc:Name>Condiciones</lc:Name>
 	</lc:CollapsedCategory>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>48515c8e-b4d3-41b3-ba09-1ef8907c68d1</lc:LogicalCircuitId>
@@ -8141,6 +8144,13 @@ to signals of 7 segment display.</lc:Note>
 		<lc:LogicalCircuitId>9321f98c-69bd-40a8-9542-9d4cd1dbafbe</lc:LogicalCircuitId>
 		<lc:X>3</lc:X>
 		<lc:Y>23</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>86d692df-d9fb-4945-9cc3-96e953b8d6a1</lc:CircuitSymbolId>
+		<lc:CircuitId>9321f98c-69bd-40a8-9542-9d4cd1dbafbe</lc:CircuitId>
+		<lc:LogicalCircuitId>7f16aac9-2e8b-47a6-9d13-03833af25e36</lc:LogicalCircuitId>
+		<lc:X>49</lc:X>
+		<lc:Y>16</lc:Y>
 	</lc:CircuitSymbol>
 	<lc:Wire>
 		<lc:WireId>380d4591-5a85-48be-aa35-17ddb30ed840</lc:WireId>
@@ -30215,14 +30225,6 @@ to signals of 7 segment display.</lc:Note>
 		<lc:Y2>56</lc:Y2>
 	</lc:Wire>
 	<lc:Wire>
-		<lc:WireId>02994ba3-784a-4815-bc02-4e10d6ba8698</lc:WireId>
-		<lc:LogicalCircuitId>7f16aac9-2e8b-47a6-9d13-03833af25e36</lc:LogicalCircuitId>
-		<lc:X1>50</lc:X1>
-		<lc:Y1>21</lc:Y1>
-		<lc:X2>50</lc:X2>
-		<lc:Y2>26</lc:Y2>
-	</lc:Wire>
-	<lc:Wire>
 		<lc:WireId>d967a57a-8483-45a1-b4c4-95234f04e970</lc:WireId>
 		<lc:LogicalCircuitId>48515c8e-b4d3-41b3-ba09-1ef8907c68d1</lc:LogicalCircuitId>
 		<lc:X1>80</lc:X1>
@@ -32277,30 +32279,6 @@ to signals of 7 segment display.</lc:Note>
 		<lc:Y1>19</lc:Y1>
 		<lc:X2>19</lc:X2>
 		<lc:Y2>19</lc:Y2>
-	</lc:Wire>
-	<lc:Wire>
-		<lc:WireId>1f25f531-313b-45b1-aed2-7b60bb3b13ce</lc:WireId>
-		<lc:LogicalCircuitId>7f16aac9-2e8b-47a6-9d13-03833af25e36</lc:LogicalCircuitId>
-		<lc:X1>50</lc:X1>
-		<lc:Y1>26</lc:Y1>
-		<lc:X2>50</lc:X2>
-		<lc:Y2>27</lc:Y2>
-	</lc:Wire>
-	<lc:Wire>
-		<lc:WireId>e1a5e58b-df2b-4c70-af71-dd7da3b74488</lc:WireId>
-		<lc:LogicalCircuitId>7f16aac9-2e8b-47a6-9d13-03833af25e36</lc:LogicalCircuitId>
-		<lc:X1>50</lc:X1>
-		<lc:Y1>27</lc:Y1>
-		<lc:X2>48</lc:X2>
-		<lc:Y2>27</lc:Y2>
-	</lc:Wire>
-	<lc:Wire>
-		<lc:WireId>03cc4934-7792-4ec5-b7e1-39cf6a588cc1</lc:WireId>
-		<lc:LogicalCircuitId>7f16aac9-2e8b-47a6-9d13-03833af25e36</lc:LogicalCircuitId>
-		<lc:X1>48</lc:X1>
-		<lc:Y1>27</lc:Y1>
-		<lc:X2>48</lc:X2>
-		<lc:Y2>30</lc:Y2>
 	</lc:Wire>
 	<lc:Wire>
 		<lc:WireId>f6eed20b-fd02-439f-a4e0-8ec288c12690</lc:WireId>
