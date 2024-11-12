@@ -3,9 +3,9 @@
 	<lc:Project>
 		<lc:ProjectId>6bb38fd9-f415-4d75-b398-db197738cd94</lc:ProjectId>
 		<lc:Name>Proyecto I</lc:Name>
-		<lc:Zoom>0.2974157303370688</lc:Zoom>
+		<lc:Zoom>0.8974157303370687</lc:Zoom>
 		<lc:Frequency>5</lc:Frequency>
-		<lc:LogicalCircuitId>48515c8e-b4d3-41b3-ba09-1ef8907c68d1</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>189b02e3-c11f-4cbd-8de8-2fd9e1806e4c</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:CollapsedCategory>
 		<lc:Name>Flip-Flop D</lc:Name>
@@ -15,12 +15,6 @@
 	</lc:CollapsedCategory>
 	<lc:CollapsedCategory>
 		<lc:Name>Switches</lc:Name>
-	</lc:CollapsedCategory>
-	<lc:CollapsedCategory>
-		<lc:Name>4bit-7segment</lc:Name>
-	</lc:CollapsedCategory>
-	<lc:CollapsedCategory>
-		<lc:Name>Contadores</lc:Name>
 	</lc:CollapsedCategory>
 	<lc:CollapsedCategory>
 		<lc:Name>Multiplexores</lc:Name>
@@ -39,6 +33,12 @@
 	</lc:CollapsedCategory>
 	<lc:CollapsedCategory>
 		<lc:Name>Funciones</lc:Name>
+	</lc:CollapsedCategory>
+	<lc:CollapsedCategory>
+		<lc:Name>Condiciones</lc:Name>
+	</lc:CollapsedCategory>
+	<lc:CollapsedCategory>
+		<lc:Name>4bit-7segment</lc:Name>
 	</lc:CollapsedCategory>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>48515c8e-b4d3-41b3-ba09-1ef8907c68d1</lc:LogicalCircuitId>
